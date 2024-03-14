@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167312388076269386/a7bcb1512913497ca469cfda61c42366/artifacts
+end_time: 1710429449218
+entry_point_name: ''
+experiment_id: '167312388076269386'
+lifecycle_stage: active
+run_id: a7bcb1512913497ca469cfda61c42366
+run_name: auspicious-rook-100
+run_uuid: a7bcb1512913497ca469cfda61c42366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710429391570
+status: 3
+tags: []
+user_id: patel

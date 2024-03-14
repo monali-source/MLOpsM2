@@ -1,3 +1,13 @@
+import mlflow
+
+remote_server_uri = "http://localhost:8080"
+mlflow.set_tracking_uri(remote_server_uri)
+
+# set experiment
+mlflow.set_experiment("/experiment_01")
+
+mlflow.sklearn.autolog()
+
 import pandas as pd
 
 pd.options.display.max_columns = 100

@@ -1,0 +1,18 @@
+digest: '46922648'
+name: dataset
+profile: '{"num_rows": 1122, "num_elements": 15708}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "version_dpe", "required": true},
+  {"type": "long", "name": "methode_du_dpe", "required": true}, {"type": "long", "name":
+  "categorie_erp", "required": true}, {"type": "long", "name": "secteur_activite",
+  "required": true}, {"type": "long", "name": "type_energie_principale_chauffage",
+  "required": true}, {"type": "long", "name": "type_energie_n_1", "required": true},
+  {"type": "long", "name": "type_usage_energie_n_1", "required": true}, {"type": "double",
+  "name": "conso_kwhep_m2_an", "required": true}, {"type": "double", "name": "emission_ges_kgco2_m2_an",
+  "required": true}, {"type": "double", "name": "surface_utile", "required": true},
+  {"type": "double", "name": "conso_finale_energie", "required": true}, {"type": "double",
+  "name": "conso_primaire_energie", "required": true}, {"type": "double", "name":
+  "frais_annuel_energie", "required": true}, {"type": "long", "name": "annee_construction",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "patel", "mlflow.source.name": ".\\src\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "ee48a92bb69447a1718705fd552d3aaeb19abe0c"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167312388076269386/e9afc6665c68469cbc61db78fb28575c/artifacts
+end_time: 1710429446731
+entry_point_name: ''
+experiment_id: '167312388076269386'
+lifecycle_stage: active
+run_id: e9afc6665c68469cbc61db78fb28575c
+run_name: smiling-flea-229
+run_uuid: e9afc6665c68469cbc61db78fb28575c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710429391570
+status: 3
+tags: []
+user_id: patel

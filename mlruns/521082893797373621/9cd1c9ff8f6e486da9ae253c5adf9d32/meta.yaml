@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521082893797373621/9cd1c9ff8f6e486da9ae253c5adf9d32/artifacts
+end_time: 1710427706472
+entry_point_name: ''
+experiment_id: '521082893797373621'
+lifecycle_stage: active
+run_id: 9cd1c9ff8f6e486da9ae253c5adf9d32
+run_name: funny-stoat-875
+run_uuid: 9cd1c9ff8f6e486da9ae253c5adf9d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710427706378
+status: 3
+tags: []
+user_id: patel
